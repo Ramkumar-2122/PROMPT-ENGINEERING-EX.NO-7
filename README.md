@@ -316,4 +316,3 @@ The experiment also showed the versatility of Generative AI in creating intellig
 The lab exercise resulted in the successful creation of a prototype concept for a personal productivity assistant powered by Large Language Models. The prompts were executed successfully and demonstrated how AI systems can support everyday productivity tasks using natural language interaction.
 
 ---
-urces
